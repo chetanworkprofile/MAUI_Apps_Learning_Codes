@@ -1,0 +1,47 @@
+is_global = true
+build_property.TargetFramework = net6.0-android
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = PartsClient
+build_property.ProjectDir = E:\Dev\Maui\testApp\httpclientDemo\src\client\PartsClient\PartsClient\
+
+[E:/Dev/Maui/testApp/httpclientDemo/src/client/PartsClient/PartsClient/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PartsClient.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[E:/Dev/Maui/testApp/httpclientDemo/src/client/PartsClient/PartsClient/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PartsClient.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[E:/Dev/Maui/testApp/httpclientDemo/src/client/PartsClient/PartsClient/Pages/AddPartPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PartsClient.Pages.AddPartPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\AddPartPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\AddPartPage.xaml
+
+[E:/Dev/Maui/testApp/httpclientDemo/src/client/PartsClient/PartsClient/Pages/PartsPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PartsClient.Pages.PartsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\PartsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\PartsPage.xaml
+
+[E:/Dev/Maui/testApp/httpclientDemo/src/client/PartsClient/PartsClient/Resources/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PartsClient.Resources.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Colors.xaml
+
+[E:/Dev/Maui/testApp/httpclientDemo/src/client/PartsClient/PartsClient/Resources/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PartsClient.Resources.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles.xaml
